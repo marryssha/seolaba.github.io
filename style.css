@@ -1,0 +1,153 @@
+.image_logo{
+    margin-right:330px;
+}
+
+.image_vtulka{
+    float: right;
+    margin-left: 200px;
+    margin-top:60px;
+    margin-bottom: -18px;
+}
+
+nav{
+    display: flex;  
+    margin-bottom: 20px;
+    margin-left: 135px;
+    margin-top:20px;
+}
+
+nav li{
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color:#4C5866;
+    margin-right: 45px;
+    font-weight: 100;
+}
+
+hr{
+    color:#DDDDDD; 
+}
+
+h1{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 60px;
+    color:#4C5866;
+    margin-top: 130px;
+    margin-bottom: 20px;
+    font-weight: 100;
+}
+
+p{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 18px;
+    color:#4C5866;
+    text-align: justify;
+    font-weight: 100;
+}
+
+.section1div{
+    display: flex;
+    margin-left:130px; 
+}
+
+.section2{
+    background-color: #EBEBEB;
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+
+.section1{
+    margin-top: 130px;
+}
+
+.V1{
+    display: flex;
+    margin-right: 110px;
+}
+
+.V2{
+    display: flex;
+    margin-right: 110px;
+}
+
+.V3{
+    display: flex;
+}
+
+.V{
+    display: flex;
+    margin-left:130px;
+    margin-bottom: 100px;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 18px;
+    color:#4C5866;
+    font-weight: 100;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 40px;
+    color:#4C5866;
+    font-weight: 100;
+}
+
+h4{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 14px;
+    color:#4C5866;
+}
+
+.box{
+    margin-left:130px;
+    display: flex;
+}
+
+.section2_2{
+    margin-right: 150px;
+}
+
+.section3{
+    margin-right: 100px;
+    display: flex;
+    margin-left: 130px;
+    margin-bottom: 100px;
+}
+
+.Y{
+    margin-right: 40px;
+}
+
+.K{
+    margin-right: 40px;
+}
+
+.P{
+    margin-right: 40px;
+}
+
+button{
+    box-sizing: 3;
+    background-color: #FFFFFF;
+    font-weight: 100;
+    border-color: #7875FE;
+    color: #7875FE;
+    font-size: 20px;
+    padding-left: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 15%;
+}
+
+footer{
+    background-color: #4C5866;
+    display: flex;
+}
+
+.div_footer{
+    margin-left:550px;
+}
