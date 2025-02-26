@@ -151,3 +151,60 @@ footer{
 .div_footer{
     margin-left:550px;
 }
+.contacts {
+    margin: 130px auto;
+    text-align: center;
+}
+
+.contacts-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 50px;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 50px;
+    background: #EBEBEB;
+    border-radius: 10px;
+}
+
+.contact-info {
+    text-align: left;
+    font-size: 18px;
+    color: #4C5866;
+}
+
+.contact-form {
+    text-align: left;
+    width: 400px;
+}
+
+.contact-form input, 
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.contact-form textarea {
+    height: 100px;
+    resize: none;
+}
+
+.contact-form button {
+    background-color: #7875FE;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.contact-form button:hover {
+    background-color: #5754D3;
+}
