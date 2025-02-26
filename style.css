@@ -208,3 +208,7 @@ footer{
 .contact-form button:hover {
     background-color: #5754D3;
 }
+html {
+    scroll-behavior: smooth;
+}
+
